@@ -53,7 +53,7 @@ pilot: false
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "Mastering Data Visualization in R: From Data to Art"
+title: "RNA-seq Data Analysis: Principles and Practice"
 
 #------------------------------------------------------------
 # Incubator workshop settings (only relevant for workshops teaching a lesson
@@ -110,7 +110,7 @@ workshop_site: "https://carpentries.github.io/workshop-template"
 cc_by_human: "https://creativecommons.org/licenses/by/4.0/"
 
 # Surveys.
-pre_survey: "https://forms.gle/D93uSgDyxmJk3JUUA"
+pre_survey: "https://forms.gle/v2QcaPcNUEsc5W7v7"
 post_survey: "https://survey.mdc-berlin.de/875143?lang=en"
 
 # Start time in minutes (0 to be clock-independent, 540 to show a start at 09:00 am).
